@@ -44,3 +44,5 @@ level (日志级别): 0=trace, 1=debug, 2=info, 3=warn, 4=err, 5=critical, 6=off
 ![QSSEditor](QSSEditor.gif)
 
 ![preview.png](preview.png)
+
+![clearstyle.png](clearstyle.png)
