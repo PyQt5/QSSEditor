@@ -13,7 +13,7 @@ QSS Editor Proxy For Qt Designer
 ## Description
 
 1. Download and unzip (下载和解压文件)
-2. copy `bin` and `plugins` to Qt Location (拷贝文件到Qt安装目录)
+2. copy `bin` and `plugins` to Qt Location and `chmod 755 -R bin plugins` (拷贝文件到Qt安装目录)
 3. start Designer (启动设计师)
 4. use `vscode` to edit qss file and apply style (使用vscode编辑qss文件并应用样式)
 
